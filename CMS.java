@@ -6,7 +6,7 @@
 
 import javax.swing.JOptionPane;
 
-public class CMS{
+public class CMS{ // course management system
 
    public static void main(String[] args){
       
